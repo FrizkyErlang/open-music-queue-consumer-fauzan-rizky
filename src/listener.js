@@ -1,3 +1,6 @@
+/* eslint-disable comma-dangle */
+/* eslint-disable object-shorthand */
+/* eslint-disable no-underscore-dangle */
 class Listener {
   constructor(playlistsService, mailSender) {
     this._playlistsService = playlistsService;

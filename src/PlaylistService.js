@@ -1,3 +1,4 @@
+/* eslint-disable no-underscore-dangle */
 const { Pool } = require('pg');
 
 class PlaylistsService {
